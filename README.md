@@ -1,6 +1,6 @@
 # Ruby on rails Explication
   Salut a toi nous allons voir ce qu'est Ruby on Rails dans ce README
-  ![Rails](https://i.imgur.com/eo8Asuu.png?1)
+  ![Rails]((https://i.imgur.com/eo8Asuu.png?2)
 ## Sommaire :
  
  0.Qu'est ce que Ruby on rails
@@ -31,10 +31,10 @@
    
    Le  **MVC** (Models , View , Controller), qui est utilisé par plusieurs framework , le principe est plutôt simple. Cela va nous permettre d'avoir une interface utilisateur si je puis dire , avoir une interaction avec l'utilisateur qui nous envoi des _requêtes_ (Une demande quelconque) et pouvoir répondre a sa demande .
           
-           Le Model qui va se charger de gérer les données
-           La Vue (view) Qui va se charger de l'interface graphique
-           Le controlleur qui va gérer les requêtes
-               
+            Le Model qui va se charger de gérer les données
+            La Vue (view) Qui va se charger de l'interface graphique
+            Le Controller Qui va gérer les requêtes de l'utlisateur
+               
   Le principe de MVC est très simples a comprendre cette image résume bien la chose:
 ![MVC_Schema](https://i.imgur.com/cxlwPC8.png?1)
 
