@@ -35,7 +35,13 @@
             La Vue (view) Qui va se charger de l'interface graphique
             Le Controller Qui va gérer les requêtes de l'utlisateur
                
-  Le principe de MVC est très simples a comprendre cette image résume bien la chose:
+
+
+Le principe de MVC est très simples a comprendre cette image résume bien la chose:
+
+
+
+
 ![MVC_Schema](https://i.imgur.com/cxlwPC8.png?1)
 
 ### 3.Les routes
@@ -78,7 +84,8 @@ post "users", to: "users#create"
    Mais certaines données peu etre a l'intérieur d'un base de données qui est elle même dans une base de données etc...
    Pour récupérer cela le model utilise des associations (methode) Pour traiter ces les données.
     
-       voila les commandes utiliser :
+   Voila les commandes utiliser :
+   
         belongs_to
         has_one
         has_many
@@ -97,5 +104,5 @@ post "users", to: "users#create"
     * **D** elete, pour supprimer un enregistrement (DELETE:/{resources}/:id)
 
 
-Voila pour vous Bonnes journée et bon courage a vous
+Voila pour vous Bonnes journée et bon courage a vous!!!
       
