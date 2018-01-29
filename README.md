@@ -1,9 +1,9 @@
 # Ruby on rails Explication
   Salut a toi nous allons voir ce qu'est Ruby on Rails dans ce README
-  ![Rails]((https://i.imgur.com/eo8Asuu.png?2)
+  ![Rails](https://i.imgur.com/eo8Asuu.png?2)
 ## Sommaire :
  
- 0.Qu'est ce que Ruby on rails
+ 1. Qu'est ce que Ruby on rails
  1. La différence entre un site statique et un site dynamique
  2. Le MVC
  3. Les routes
