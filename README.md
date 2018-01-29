@@ -31,12 +31,11 @@
    
    Le  **MVC** (Models , View , Controller), qui est utilisé par plusieurs framework , le principe est plutôt simple. Cela va nous permettre d'avoir une interface utilisateur si je puis dire , avoir une interaction avec l'utilisateur qui nous envoi des _requêtes_ (Une demande quelconque) et pouvoir répondre a sa demande .
           
-          * Le Model qui va se charger de gérer les données
-          * La Vue (view) Qui va se charger de l'interface graphique
-          * Le controlleur qui va gérer les requêtes
-          
-     
-     Le principe de MVC est très simples a comprendre cette image résume bien la chose:
+           Le Model qui va se charger de gérer les données
+           La Vue (view) Qui va se charger de l'interface graphique
+           Le controlleur qui va gérer les requêtes
+               
+  Le principe de MVC est très simples a comprendre cette image résume bien la chose:
 ![MVC_Schema](https://i.imgur.com/cxlwPC8.png?1)
 
 ### 3.Les routes
@@ -88,7 +87,7 @@ post "users", to: "users#create"
         has_and_belongs_to_many
     
     
-   Vous pouvez vous référer a la [doc Ruby](http://guides.rubyonrails.org/association_basics.html#the-types-of-associations)
+  Vous pouvez vous référer a la [doc Ruby](http://guides.rubyonrails.org/association_basics.html#the-types-of-associations)
     
 ### 8.Les fonctions du CRUD
 
