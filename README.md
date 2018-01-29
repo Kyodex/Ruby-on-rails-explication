@@ -34,8 +34,12 @@
                 Le Model qui va se charger de gérer les données
                 La Vue (view) Qui va se charger de l'interface graphique
                 Le Controller Qui va gérer les requêtes de l'utlisateur
+                
+                
                
 Le principe de MVC est très simples a comprendre cette image résume bien la chose:
+
+
 
 
 
