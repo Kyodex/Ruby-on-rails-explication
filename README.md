@@ -1,6 +1,6 @@
-#Ruby on rails Explication
+# Ruby on rails Explication
   Salut a toi nous allons voir ce qu'est Ruby on Rails dans ce README
-##*Sommaire :
+## *Sommaire :
     1.Qu'est ce que Ruby on Rails (RoR)
       1a. Framework
       1b. A quoi ça sert?
