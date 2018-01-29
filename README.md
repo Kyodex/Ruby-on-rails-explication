@@ -31,9 +31,9 @@
    
    Le  **MVC** (Models , View , Controller), qui est utilisé par plusieurs framework , le principe est plutôt simple. Cela va nous permettre d'avoir une interface utilisateur si je puis dire , avoir une interaction avec l'utilisateur qui nous envoi des _requêtes_ (Une demande quelconque) et pouvoir répondre a sa demande .
    
-     * Le **Model** Qui va se charger de gérer les données.
-     * La **Vue** (view) Qui va se charger de l'interface graphique.
-     * Le **Controller** Qui va gérer les requêtes de l'utlisateur.
+      Le Model Qui va se charger de gérer les données.
+      La Vue (view) Qui va se charger de l'interface graphique.
+      Le Controller Qui va gérer les requêtes de l'utlisateur.
                 
                 
                
