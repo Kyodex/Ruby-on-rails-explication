@@ -110,4 +110,4 @@ post "users", to: "users#create"
 
 
 Voila pour vous Bonnes journée et bon courage a vous!!!
-      
+      PS :bon curage pour l'orthographe
