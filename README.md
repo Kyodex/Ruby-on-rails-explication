@@ -1,6 +1,6 @@
 # Ruby on rails Explication
   Salut a toi nous allons voir ce qu'est Ruby on Rails dans ce README
-  ![Rails](https://imgur.com/a/NOzsG)
+  ![Rails](https://imgur.com/eo8Asuu)
 ## Sommaire :
     1.Qu'est ce que Ruby on Rails (RoR)
       1a. Framework
@@ -15,7 +15,7 @@
     3. Langages utilisé
 
 ### I.Qu'est ce que Ruby on rails (RoR)
-      **_Ruby on rails_** (RoR, ou même juste Rails) est un framework Web écrit en Ruby ,
+      **Ruby on rails** (RoR, ou même juste Rails) est un framework Web écrit en Ruby ,
       elle permet de développer des site ou application web en suivant le principe **MVC**
       qui sera expliquer un peu pus tard.
 
@@ -32,4 +32,4 @@
 ### II.Architecture MVC
 #####   a. Synopsis
           Le principe ce MVC est très simples a comprendre il a une image qui résume bien la chose:
-![MVC_Schema](https://imgur.com/a/PKnDr)
+![MVC_Schema](https://imgur.com/cxlwPC8)
