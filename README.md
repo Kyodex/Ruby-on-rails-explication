@@ -32,4 +32,4 @@
 ### II.Architecture MVC
 #####   a. Synopsis
           Le principe ce MVC est très simples a comprendre il a une image qui résume bien la chose:
-![MVC_Schema](https://imgur.com/cxlwPC8)
+![MVC_Schema](https://i.imgur.com/cxlwPC8.png?1)
