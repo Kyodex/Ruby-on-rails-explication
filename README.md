@@ -2,6 +2,7 @@
   Salut a toi nous allons voir ce qu'est Ruby on Rails dans ce README
   ![Rails](https://i.imgur.com/eo8Asuu.png?1)
 ## Sommaire :
+ 
  0.Qu'est ce que Ruby on rails
  1. La différence entre un site statique et un site dynamique
  2. Le MVC
@@ -34,7 +35,8 @@
           * La Vue (view) Qui va se charger de l'interface graphique
           * Le controlleur qui va gérer les requêtes
           
-      Le principe de MVC est très simples a comprendre cette image résume bien la chose:
+     
+     Le principe de MVC est très simples a comprendre cette image résume bien la chose:
 ![MVC_Schema](https://i.imgur.com/cxlwPC8.png?1)
 
 ### 3.Les routes
@@ -85,7 +87,8 @@ post "users", to: "users#create"
         has_one :through
         has_and_belongs_to_many
     
-    Vous pouvez vous référer a la [doc Ruby](http://guides.rubyonrails.org/association_basics.html#the-types-of-associations)
+    
+   Vous pouvez vous référer a la [doc Ruby](http://guides.rubyonrails.org/association_basics.html#the-types-of-associations)
     
 ### 8.Les fonctions du CRUD
 
@@ -93,6 +96,7 @@ post "users", to: "users#create"
     * **R** ead, pour afficher un ou plusieurs enregistrements, (GET:/{resources} et GET:/{resources}/:id)
     * **U** pdate, pour mettre à jour un enregistrement (PUT:/{resources}/:id)
     * **D** elete, pour supprimer un enregistrement (DELETE:/{resources}/:id)
+
 
 Voila pour vous Bonnes journée et bon courage a vous
       
