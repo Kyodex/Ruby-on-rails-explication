@@ -13,7 +13,7 @@
  7. Les relations entre les models des BDD
  8. Les fonctions du CRUD
 
-###  0.Qu'est ce que Ruby on rails (RoR)
+###  1. Qu'est ce que Ruby on rails (RoR)
    
    **Ruby on rails** (RoR, ou même juste Rails) est un framework Web écrit en Ruby ,
      elle permet de développer des site ou application web en suivant le principe **MVC**
