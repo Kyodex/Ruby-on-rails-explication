@@ -103,10 +103,10 @@ post "users", to: "users#create"
     
 ### 8.Les fonctions du CRUD
 
-   * **C** reate, qui permet de créer un nouvel enregistrement (POST:/{resources});
-    * **R** ead, pour afficher un ou plusieurs enregistrements, (GET:/{resources} et GET:/{resources}/:id)
-    * **U** pdate, pour mettre à jour un enregistrement (PUT:/{resources}/:id)
-    * **D** elete, pour supprimer un enregistrement (DELETE:/{resources}/:id)
+   * **C** reate, qui permet de créer un nouvel enregistrement *(POST:/{resources});*
+    * **R** ead, pour afficher un ou plusieurs enregistrements, *(GET:/{resources} et GET:/{resources}/:id)*
+    * **U** pdate, pour mettre à jour un enregistrement *(PUT:/{resources}/:id)*
+    * **D** elete, pour supprimer un enregistrement *(DELETE:/{resources}/:id)*
 
 
 Voila pour vous Bonnes journée et bon courage a vous!!!
